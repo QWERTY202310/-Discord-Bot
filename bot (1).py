@@ -48,4 +48,4 @@ async def on_message(message):
     if embed:
         await message.channel.send(embed=embed)
 
-client.run('MTIyMTc0MDc5NDAxNzM1MzczOA.GjKQFV.o3Dd5gRelNyJdvZub93DI2V0pX1JBYS8OzoTiM')
+client.run('token')
